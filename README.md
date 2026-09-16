@@ -16,6 +16,10 @@ lessons/
 
 ## Available lessons
 
+### Algorithms
+
+- [Dijkstra's shortest-path algorithm in Python](lessons/algorithms/dijkstra-shortest-path-python/README.md)
+
 ### Data structures
 
 - [Hash Tables for Beginners in Python](lessons/data-structures/hash-tables-python/README.md)
