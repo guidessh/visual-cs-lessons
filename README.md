@@ -25,6 +25,7 @@ lessons/
 - [Hash Tables for Beginners in Python](lessons/data-structures/hash-tables-python/README.md)
 - [Arrays and Python lists: what happens in memory](lessons/data-structures/dynamic-arrays-python/README.md)
 - [Singly linked lists in Python](lessons/data-structures/singly-linked-lists-python/README.md)
+- [Doubly linked lists in Python](lessons/data-structures/doubly-linked-lists-python/README.md)
 
 ## Run everything
 
